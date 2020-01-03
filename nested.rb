@@ -135,7 +135,7 @@ def adding_to_dennis
         }
      }
 
-    adding_to_dennis[:dennis_ritchie][:languages ] = ["C","Assembly" ]
+    adding_to_dennis[:dennis_ritchie][:languages ] = "C","Assembly" 
     return adding_to_dennis
 end
 
