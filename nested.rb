@@ -135,7 +135,7 @@ def adding_to_dennis
         }
      }
 
-    adding_to_dennis[:dennis_ritchie][:languages ] = "C"
+    adding_to_dennis[:dennis_ritchie][:languages ] = ["C", ]
 end
 
 
